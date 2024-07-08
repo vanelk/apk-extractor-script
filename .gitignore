@@ -1,0 +1,8 @@
+**/Scripts
+/Lib
+/Include
+/data/*.pkl
+/apks
+.venv
+result.csv
+pyvenv.cfg
